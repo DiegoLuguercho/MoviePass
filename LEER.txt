@@ -1,0 +1,26 @@
+Integrantes del grupo: 
+
+-Larrañaga Agustin
+-Luguercho Nasif Diego
+-Garcia Matias
+-Cristaldo Valentin
+
+Al cargar la Base de Datos por phpmyadmin:
+En conjunto de caracteres del archivo poner la opcion "ISO-8859-1" 
+
+
+LOGIN: 
+
+Usuarios cargados para logear:
+
+Emails: juanperez@gmail.com 
+pedrolopez@gmail.com
+juanagomez@gmail.com
+flordiaz@gmail.com
+pablorodriguez@gmail.com
+La contraseña de todos es: 123456
+
+Usuario Admin: 
+
+Email: admin@admin.com
+Contraseña: admin
