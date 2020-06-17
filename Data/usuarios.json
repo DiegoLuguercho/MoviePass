@@ -1,0 +1,23 @@
+[
+    {
+        "nombre": "Matias",
+        "apellido": "Garcia",
+        "email": "matiasygarcia@gmail.com",
+        "dni": "40478799",
+        "contrasenia": "123456 "
+    },
+    {
+        "nombre": "Diego",
+        "apellido": "Luguercho",
+        "email": "diegoluguercho18@gmail.com",
+        "dni": "39590951",
+        "contrasenia": "123456 "
+    },
+    {
+        "nombre": "Valentin",
+        "apellido": "Cristaldo",
+        "email": "cristaldovalentin@gmail.com",
+        "dni": "36442161",
+        "contrasenia": "123456 "
+    }
+]
